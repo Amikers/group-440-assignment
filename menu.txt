@@ -1,0 +1,13 @@
+            -------------------------------------------
+            --            STRAW HAT CAFE             --
+            --  ____________   MENU   _________      --
+            -------------------------------------------
+            [A]  Red Velvet Cake - RM 20
+            [B]  Chicken Dumpling - RM 15
+            [C]  Chicken Lasagna  - RM 10
+            [D]  Mineral Water - RM 1
+            [E]  Soft Drinks - RM 50
+            [F]  Cappucino - RM 45
+            [G]  Smoothies - RM 5
+            Enter Q if you want exit
+            ===========================================
